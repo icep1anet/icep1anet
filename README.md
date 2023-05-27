@@ -8,8 +8,13 @@
 [![Twitter: icep1anet](https://img.shields.io/twitter/follow/icep1anet?style=social)](https://twitter.com/icep1anet)
 
 ## Stats
+
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icep1anet&theme=gruvbox&border_radius=20">
+    <img src="https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/gruvbox/0-profile-details.svg">
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/gruvbox/4-productive-time.svg">
 </div>
 
 <div align="center">
