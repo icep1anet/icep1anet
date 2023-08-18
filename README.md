@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,11 +72,7 @@ Sunday                   997 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 11 mins             ██████████████████░░░░░░░   71.95 % 
-JavaScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -84,7 +80,7 @@ Python                   0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2023 21:16:39 UTC
+ Last Updated on 18/08/2023 21:15:58 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
