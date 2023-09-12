@@ -72,8 +72,7 @@ Sunday                   1095 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               15 mins             █████████████████████████   99.94 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -81,7 +80,7 @@ Objective-C              0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 21:17:07 UTC
+ Last Updated on 12/09/2023 21:17:45 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
