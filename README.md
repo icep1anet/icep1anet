@@ -35,15 +35,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 163.3 kB Used in GitHub's Storage 
+> 📦 163.4 kB Used in GitHub's Storage 
  > 
 > 🏆 493 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 17 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -72,11 +72,11 @@ Sunday                   1107 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               1 hr 36 mins        ███████████████░░░░░░░░░░   59.89 % 
-Python                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-ActionScript             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               3 hrs 11 mins       █████████████████░░░░░░░░   69.29 % 
+Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ ActionScript             5 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 21:16:49 UTC
+ Last Updated on 25/09/2023 21:18:11 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
