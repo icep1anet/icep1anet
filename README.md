@@ -35,7 +35,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 177.4 kB Used in GitHub's Storage 
+> 📦 177.5 kB Used in GitHub's Storage 
  > 
 > 🏆 708 Contributions in the Year 2023
  > 
@@ -84,7 +84,7 @@ CSS                      26 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2023 21:20:01 UTC
+ Last Updated on 18/11/2023 21:18:39 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
