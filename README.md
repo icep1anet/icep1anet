@@ -29,8 +29,6 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2051%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +82,7 @@ JSON                     1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 21:19:18 UTC
+ Last Updated on 06/12/2023 21:20:18 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
