@@ -29,7 +29,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -84,7 +84,7 @@ CSS                      4 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 21:18:10 UTC
+ Last Updated on 18/12/2023 21:19:28 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
