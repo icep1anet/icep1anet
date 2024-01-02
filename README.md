@@ -72,7 +72,7 @@ Sunday                   1406 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Other                    5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -80,7 +80,7 @@ Other                    9 hrs 18 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 21:18:55 UTC
+ Last Updated on 02/01/2024 21:20:09 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
