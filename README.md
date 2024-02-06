@@ -29,7 +29,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -72,9 +72,9 @@ Sunday                   1432 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    34 hrs 26 mins      █████████████████████████   99.88 % 
+Other                    33 hrs 4 mins       █████████████████████████   99.88 % 
 JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Canva Design             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Canva Design             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **Timeline**
@@ -82,7 +82,7 @@ Canva Design             1 min               ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 21:18:33 UTC
+ Last Updated on 06/02/2024 21:18:54 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
