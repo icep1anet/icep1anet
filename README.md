@@ -72,8 +72,8 @@ Sunday                   1432 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    2 hrs 30 mins       ████████████████████████░   97.34 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Other                    2 hrs 50 mins       ██████████████████████░░░   89.94 % 
+Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
 ```
 
 **Timeline**
@@ -81,7 +81,7 @@ Python                   4 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 21:19:09 UTC
+ Last Updated on 08/03/2024 21:19:01 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
