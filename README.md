@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,11 +70,11 @@ Sunday                   1444 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    7 hrs 7 mins        ████████████████░░░░░░░░░   65.72 % 
-Python                   2 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    7 hrs 22 mins       █████████████████░░░░░░░░   66.50 % 
+Python                   2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 **Timeline**
@@ -82,7 +82,7 @@ JavaScript               4 mins              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2024 21:19:33 UTC
+ Last Updated on 08/04/2024 21:18:56 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
