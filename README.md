@@ -29,7 +29,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,11 +72,11 @@ Sunday                   1519 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   20 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.28 % 
-Other                    13 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   31.13 % 
-TypeScript               2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Makefile                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Python                   15 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.37 % 
+Other                    12 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   35.61 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Makefile                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ Makefile                 1 hr 28 mins        █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2024 21:22:24 UTC
+ Last Updated on 12/05/2024 21:22:18 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
