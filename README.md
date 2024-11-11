@@ -29,13 +29,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 261.7 kB Used in GitHub's Storage 
+> 📦 261.8 kB Used in GitHub's Storage 
  > 
-> 🏆 918 Contributions in the Year 2024
+> 🏆 920 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,7 +84,7 @@ Markdown                 1 hr 17 mins        ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 21:29:50 UTC
+ Last Updated on 11/11/2024 21:31:30 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
