@@ -29,15 +29,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C220%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C225%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 277.0 kB Used in GitHub's Storage 
+> 📦 277.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,373 Contributions in the Year 2025
+> 🏆 1,381 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,46 +45,12 @@
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4691 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌆 Daytime                9093 commits        █████████░░░░░░░░░░░░░░░░   37.58 % 
-🌃 Evening                5504 commits        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-🌙 Night                  4911 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   3943 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Tuesday                  3223 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Wednesday                4759 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Thursday                 2748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Friday                   4493 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Saturday                 1571 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Sunday                   3462 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
-Python                   6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Go                       2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 21:28:57 UTC
+ Last Updated on 24/09/2025 21:28:18 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
