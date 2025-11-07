@@ -29,7 +29,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C329%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C329%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -37,7 +37,7 @@
 
 > 📦 280.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,642 Contributions in the Year 2025
+> 🏆 1,644 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,11 +72,11 @@ Sunday                   3692 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
-Python                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-SQL                      1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Go                       1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Other                    7 hrs 3 mins        ██████████████░░░░░░░░░░░   54.89 % 
+Python                   3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ YAML                     1 hr 7 mins         ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 21:30:26 UTC
+ Last Updated on 07/11/2025 21:26:51 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
