@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C368%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,11 +72,11 @@ Sunday                   3710 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
-Other                    2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Python                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-TypeScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Terraform                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Go                       4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
+Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Python                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+TypeScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Terraform                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ Terraform                27 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2025 21:31:15 UTC
+ Last Updated on 30/11/2025 21:29:37 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
