@@ -29,6 +29,8 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C435%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
@@ -43,12 +45,42 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5794 commits        █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌆 Daytime                9963 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌃 Evening                6615 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+🌙 Night                  6090 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4345 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Tuesday                  3874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Wednesday                5690 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Thursday                 3119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Friday                   5073 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Saturday                 2070 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Sunday                   4291 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 21:31:36 UTC
+ Last Updated on 04/01/2026 21:32:44 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
