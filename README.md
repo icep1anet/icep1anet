@@ -29,7 +29,7 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C620%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C620%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -72,11 +72,11 @@ Sunday                   6814 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       3 hrs 31 mins       ██████████████░░░░░░░░░░░   55.80 % 
-GraphQL                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-SQL                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Go                       3 hrs 31 mins       ██████████████░░░░░░░░░░░   54.54 % 
+GraphQL                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+SQL                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ Other                    16 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 16/03/2026 21:56:38 UTC
+ Last Updated on 17/03/2026 21:53:05 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
