@@ -37,7 +37,7 @@
 
 > 📦 374.6 kB Used in GitHub's Storage 
  > 
-> 🏆 590 Contributions in the Year 2026
+> 🏆 591 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,46 +45,12 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6349 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-🌆 Daytime                10811 commits       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌃 Evening                9117 commits        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-🌙 Night                  7413 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4729 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Tuesday                  4368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Wednesday                6547 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Thursday                 4130 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Friday                   5672 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Saturday                 2750 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Sunday                   5494 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Go                       6 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.97 % 
-TypeScript               2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-YAML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 22:29:50 UTC
+ Last Updated on 13/05/2026 22:31:30 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
