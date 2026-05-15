@@ -29,11 +29,13 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 374.7 kB Used in GitHub's Storage 
+> 📦 374.8 kB Used in GitHub's Storage 
  > 
 > 🏆 626 Contributions in the Year 2026
  > 
@@ -43,12 +45,46 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6136 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+🌆 Daytime                10797 commits       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+🌃 Evening                9275 commits        ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌙 Night                  7333 commits        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4696 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Tuesday                  4309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                6352 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Thursday                 4453 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   5657 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Saturday                 2710 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Sunday                   5364 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Go                       3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.70 % 
+Markdown                 2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+TypeScript               1 hr 55 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 22:28:31 UTC
+ Last Updated on 15/05/2026 22:17:01 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
