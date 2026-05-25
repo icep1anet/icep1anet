@@ -35,9 +35,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 375.2 kB Used in GitHub's Storage 
+> 📦 375.3 kB Used in GitHub's Storage 
  > 
-> 🏆 667 Contributions in the Year 2026
+> 🏆 675 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,12 +45,46 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6987 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌆 Daytime                12013 commits       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+🌃 Evening                11306 commits       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌙 Night                  8717 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Tuesday                  4980 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                7268 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Thursday                 5666 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Friday                   6335 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Saturday                 3264 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Sunday                   6263 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 1 hr 41 mins        ██████████░░░░░░░░░░░░░░░   41.22 % 
+Go                       1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+Protocol Buffer          37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Terraform                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 22:10:04 UTC
+ Last Updated on 25/05/2026 22:22:59 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
