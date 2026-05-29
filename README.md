@@ -29,11 +29,13 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C703%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 375.6 kB Used in GitHub's Storage 
+> 📦 375.7 kB Used in GitHub's Storage 
  > 
 > 🏆 716 Contributions in the Year 2026
  > 
@@ -43,12 +45,45 @@
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6172 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌆 Daytime                11304 commits       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌃 Evening                10548 commits       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌙 Night                  7868 commits        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4871 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  4549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Wednesday                6562 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Thursday                 5406 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Friday                   5967 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Saturday                 2916 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Sunday                   5621 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Markdown                 47 mins             ███████████████████░░░░░░   76.64 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Protocol Buffer          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 22:54:05 UTC
+ Last Updated on 29/05/2026 22:50:01 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
