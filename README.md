@@ -29,15 +29,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C710%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C715%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 375.7 kB Used in GitHub's Storage 
  > 
-> 🏆 731 Contributions in the Year 2026
+> 🏆 743 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,46 +45,12 @@
  > 
 > 🔑 27 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                6722 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-🌆 Daytime                11907 commits       ████████░░░░░░░░░░░░░░░░░   30.69 % 
-🌃 Evening                11514 commits       ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-🌙 Night                  8649 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5204 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  4880 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Wednesday                7065 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Thursday                 5837 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Friday                   6314 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Saturday                 3315 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Sunday                   6177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Markdown                 4 hrs 10 mins       █████████████░░░░░░░░░░░░   51.65 % 
-Go                       2 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-TypeScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Protocol Buffer          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-```
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2026 23:16:35 UTC
+ Last Updated on 02/06/2026 23:18:08 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
