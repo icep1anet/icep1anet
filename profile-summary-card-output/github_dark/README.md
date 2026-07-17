@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/github_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/github_dark/4-productive-time.svg)
-```
-
-    

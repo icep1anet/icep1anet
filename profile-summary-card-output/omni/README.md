@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/omni/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/icep1anet/icep1anet/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
