@@ -29,15 +29,15 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 379.3 kB Used in GitHub's Storage 
+> 📦 379.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,420 Contributions in the Year 2026
+> 🏆 1,427 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +48,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7605 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-🌆 Daytime                13575 commits       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-🌃 Evening                14833 commits       ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌙 Night                  11416 commits       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+🌞 Morning                7044 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+🌆 Daytime                12969 commits       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌃 Evening                13978 commits       ████████░░░░░░░░░░░░░░░░░   31.36 % 
+🌙 Night                  10587 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   5897 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Tuesday                  6291 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Wednesday                9123 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 8135 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Friday                   6945 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Saturday                 3933 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   7105 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Monday                   5535 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Tuesday                  5917 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Wednesday                8537 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Thursday                 7747 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Friday                   6607 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 3662 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Sunday                   6573 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 ```
 
 
@@ -72,11 +72,11 @@ Sunday                   7105 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Terraform                1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.65 % 
-TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Go                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Terraform                1 hr 57 mins        █████████████████░░░░░░░░   68.70 % 
+Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+HCL                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 **Timeline**
@@ -84,7 +84,7 @@ Go                       13 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 22:22:54 UTC
+ Last Updated on 25/07/2026 22:12:24 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
