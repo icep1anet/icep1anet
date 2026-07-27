@@ -29,15 +29,17 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C771%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C122%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 379.4 kB Used in GitHub's Storage 
+> 📦 379.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,456 Contributions in the Year 2026
+> 🏆 1,476 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +50,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7237 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-🌆 Daytime                13192 commits       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-🌃 Evening                14219 commits       ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌙 Night                  10850 commits       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌞 Morning                7406 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌆 Daytime                13235 commits       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌃 Evening                14436 commits       ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌙 Night                  11093 commits       ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   5679 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  6037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Wednesday                8718 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Thursday                 7848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Friday                   6714 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 3749 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Sunday                   6753 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Monday                   5800 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Tuesday                  6106 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                8850 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Thursday                 7878 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Friday                   6785 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 3831 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Sunday                   6920 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 ```
 
 
@@ -72,11 +74,34 @@ Sunday                   6753 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Terraform                1 hr 40 mins        █████████████████░░░░░░░░   67.00 % 
-Other                    21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-HCL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Terraform                59 mins             █████████░░░░░░░░░░░░░░░░   34.80 % 
+TypeScript               50 mins             ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 19 mins (46.02%)
+
+✍️ 0 lines written by AI, 225 lines written by hand (0.0% AI-written)
+
+🔤 19,873,192 Input Tokens, 109,022 Output Tokens
+
+💵 $90.76 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 946 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -84,7 +109,7 @@ JSON                     3 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 22:16:15 UTC
+ Last Updated on 27/07/2026 22:24:45 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
