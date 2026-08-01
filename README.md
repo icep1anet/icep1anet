@@ -74,17 +74,17 @@ Sunday                   7180 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 5 hrs 13 mins       █████████████████░░░░░░░░   67.03 % 
-Go                       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Markdown                 5 hrs 13 mins       █████████████████░░░░░░░░   69.11 % 
+Go                       1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+TypeScript               54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 28 mins (95.74%)
+⏱ AI Coding Time: 7 hrs 28 mins (98.72%)
 
 ✍️ 826 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -110,7 +110,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 22:23:20 UTC
+ Last Updated on 01/08/2026 22:16:54 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
