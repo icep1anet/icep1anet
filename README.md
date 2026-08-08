@@ -37,7 +37,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 380.3 kB Used in GitHub's Storage 
+> 📦 380.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,589 Contributions in the Year 2026
  > 
@@ -74,35 +74,35 @@ Sunday                   7679 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   32.35 % 
-Other                    45 mins             █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-Protocol Buffer          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-TypeScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Go                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Go                       1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+Other                    54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Protocol Buffer          48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+TypeScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (95.66%)
+⏱ AI Coding Time: 3 hrs 47 mins (60.79%)
 
-✍️ 14,504 lines written by AI, 32 lines written by hand (99.78% AI-written)
+✍️ 14,663 lines written by AI, 297 lines written by hand (98.01% AI-written)
 
-🔤 47,527,849 Input Tokens, 212,419 Output Tokens
+🔤 56,928,711 Input Tokens, 248,535 Output Tokens
 
-💵 $123.05 Estimated AI Cost This Week
+💵 $496.40 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 38 AI Prompts
+🧠 8 AI Sessions, 174 AI Prompts
 
-Fable                    14,516 lines        █████████████████████████   100.00 % 
+Fable                    14,675 lines        █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.3% of changed lines were hand-edited
+🤖 AI-Driven — 98.01% of written lines came from AI
+📝 Concise Prompter — average 90 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 3.01% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -110,7 +110,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 21:59:38 UTC
+ Last Updated on 08/08/2026 21:50:18 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
