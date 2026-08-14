@@ -29,17 +29,17 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C139%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C144%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 380.6 kB Used in GitHub's Storage 
+> 📦 380.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,645 Contributions in the Year 2026
+> 🏆 1,689 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,19 +51,19 @@
 
 ```text
 🌞 Morning                8753 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-🌆 Daytime                15866 commits       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌃 Evening                20525 commits       █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  15160 commits       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+🌆 Daytime                15876 commits       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌃 Evening                20525 commits       █████████░░░░░░░░░░░░░░░░   34.03 % 
+🌙 Night                  15165 commits       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   6923 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 Tuesday                  7890 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Wednesday                11572 commits       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Thursday                 11974 commits       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Wednesday                11572 commits       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+Thursday                 11984 commits       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 Friday                   7914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Saturday                 5051 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Saturday                 5056 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 Sunday                   8980 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 ```
 
@@ -74,19 +74,19 @@ Sunday                   8980 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       5 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.10 % 
-Markdown                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-TypeScript               1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-GraphQL                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Go                       6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
+Markdown                 3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Other                    1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+YAML                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 44 mins (56.95%)
+⏱ AI Coding Time: 7 hrs 44 mins (49.4%)
 
-✍️ 391 lines written by AI, 654 lines written by hand (37.42% AI-written)
+✍️ 391 lines written by AI, 787 lines written by hand (33.19% AI-written)
 
 🔤 7,667,175 Input Tokens, 776,915 Output Tokens
 
@@ -99,10 +99,10 @@ Opus                     0 lines             ░░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.42% of written lines came from AI
+⚖️ Balanced with AI — 33.19% of written lines came from AI
 📄 Detailed Prompter — average 1,167 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 72.69% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 75.51% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -110,7 +110,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 22:08:36 UTC
+ Last Updated on 14/08/2026 21:44:35 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
