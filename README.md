@@ -37,7 +37,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 381.5 kB Used in GitHub's Storage 
+> 📦 381.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2,028 Contributions in the Year 2026
  > 
@@ -74,17 +74,17 @@ Sunday                   8049 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.16 % 
-Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Go                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Markdown                 2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
+Other                    1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+TypeScript               49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Go                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 6 mins (94.97%)
+⏱ AI Coding Time: 5 hrs 6 mins (97.86%)
 
 ✍️ 2,951 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
@@ -109,7 +109,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 03:19:46 UTC
+ Last Updated on 29/08/2026 23:21:50 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
