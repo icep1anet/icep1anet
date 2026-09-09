@@ -37,9 +37,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 382.2 kB Used in GitHub's Storage 
+> 📦 382.3 kB Used in GitHub's Storage 
  > 
-> 🏆 2,157 Contributions in the Year 2026
+> 🏆 2,159 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,20 +51,20 @@
 
 ```text
 🌞 Morning                8197 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-🌆 Daytime                14907 commits       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+🌆 Daytime                14907 commits       ███████░░░░░░░░░░░░░░░░░░   26.59 % 
 🌃 Evening                18768 commits       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌙 Night                  14178 commits       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌙 Night                  14193 commits       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6684 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Monday                   6693 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 Tuesday                  7967 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                10225 commits       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Wednesday                10231 commits       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
 Thursday                 11475 commits       █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
 Friday                   7282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Saturday                 4359 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Sunday                   8058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Saturday                 4359 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Sunday                   8058 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 ```
 
 
@@ -74,31 +74,29 @@ Sunday                   8058 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 2 mins         ███████████░░░░░░░░░░░░░░   44.55 % 
-Go                       41 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-HCL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    59 mins             ████████████░░░░░░░░░░░░░   49.76 % 
+Markdown                 31 mins             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Go                       28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 15 mins (96.73%)
+⏱ AI Coding Time: 1 hr 58 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,173,191 Input Tokens, 223,450 Output Tokens
+🔤 2,948,581 Input Tokens, 208,661 Output Tokens
 
-💵 $63.42 Estimated AI Cost This Week
+💵 $58.60 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 16 AI Prompts
+🧠 8 AI Sessions, 14 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 485 characters per prompt
+📄 Detailed Prompter — average 542 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
@@ -108,7 +106,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 23:33:07 UTC
+ Last Updated on 09/09/2026 23:20:12 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
