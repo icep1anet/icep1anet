@@ -29,9 +29,9 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C153%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C154%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -39,7 +39,7 @@
 
 > 📦 382.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,226 Contributions in the Year 2026
+> 🏆 2,227 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7898 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                14315 commits       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-🌃 Evening                17256 commits       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-🌙 Night                  13275 commits       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+🌞 Morning                7812 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+🌆 Daytime                14069 commits       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+🌃 Evening                16574 commits       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌙 Night                  12799 commits       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6485 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  7401 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Wednesday                9679 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Thursday                 10405 commits       █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Friday                   7030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Saturday                 4106 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Sunday                   7638 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Monday                   6375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  7140 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                9454 commits        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Thursday                 9841 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Friday                   6946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 4012 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Sunday                   7486 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 ```
 
 
@@ -74,29 +74,29 @@ Sunday                   7638 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        ████████████████░░░░░░░░░   62.40 % 
-Go                       54 mins             █████████░░░░░░░░░░░░░░░░   37.60 % 
+Other                    1 hr 11 mins        ██████████████░░░░░░░░░░░   56.55 % 
+Go                       54 mins             ███████████░░░░░░░░░░░░░░   43.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (98.56%)
+⏱ AI Coding Time: 2 hrs 3 mins (98.33%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,365,279 Input Tokens, 180,767 Output Tokens
+🔤 1,019,868 Input Tokens, 154,247 Output Tokens
 
-💵 $48.95 Estimated AI Cost This Week
+💵 $43.54 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 29 AI Prompts
+🧠 4 AI Sessions, 24 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 58 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 50 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +105,7 @@ Opus                     0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 23:47:35 UTC
+ Last Updated on 23/09/2026 23:45:00 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
