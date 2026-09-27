@@ -39,7 +39,7 @@
 
 > 📦 383.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,269 Contributions in the Year 2026
+> 🏆 2,282 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,21 +50,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8180 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌆 Daytime                14531 commits       ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-🌃 Evening                17032 commits       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-🌙 Night                  13330 commits       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+🌞 Morning                7919 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌆 Daytime                14748 commits       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+🌃 Evening                17646 commits       ████████░░░░░░░░░░░░░░░░░   32.78 % 
+🌙 Night                  13523 commits       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Tuesday                  7380 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-Wednesday                9786 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 10096 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Friday                   7152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Saturday                 4202 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Sunday                   7828 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Monday                   6522 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Tuesday                  7565 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                9776 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Thursday                 10933 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Friday                   7082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Saturday                 4203 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Sunday                   7755 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 ```
 
 
@@ -74,34 +74,34 @@ Sunday                   7828 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       2 hrs 51 mins       █████████████░░░░░░░░░░░░   51.06 % 
-TypeScript               1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Go                       3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Markdown                 3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+TypeScript               3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Other                    1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 35 mins (99.79%)
+⏱ AI Coding Time: 12 hrs 17 mins (97.47%)
 
-✍️ 2,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,411 lines written by AI, 140 lines written by hand (94.51% AI-written)
 
-🔤 3,161,285 Input Tokens, 586,258 Output Tokens
+🔤 13,647,917 Input Tokens, 1,618,445 Output Tokens
 
-💵 $171.91 Estimated AI Cost This Week
+💵 $429.87 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 46 AI Prompts
+🧠 19 AI Sessions, 73 AI Prompts
 
-Opus                     2,311 lines         █████████████████████████   100.00 % 
+Opus                     2,436 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 349 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 94.51% of written lines came from AI
+📄 Detailed Prompter — average 908 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 5.43% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -109,7 +109,7 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 23:45:04 UTC
+ Last Updated on 27/09/2026 23:59:16 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
