@@ -37,9 +37,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 383.8 kB Used in GitHub's Storage 
+> 📦 383.9 kB Used in GitHub's Storage 
  > 
-> 🏆 2,327 Contributions in the Year 2026
+> 🏆 2,341 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,28 +74,28 @@ Sunday                   7310 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               51 mins             █████████████░░░░░░░░░░░░   52.00 % 
-Other                    47 mins             ████████████░░░░░░░░░░░░░   48.00 % 
+TypeScript               16 mins             █████████████░░░░░░░░░░░░   53.01 % 
+Other                    14 mins             ████████████░░░░░░░░░░░░░   46.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 24 mins (100.0%)
+⏱ AI Coding Time: 16 mins (100.0%)
 
 ✍️ 233 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,579,174 Input Tokens, 222,739 Output Tokens
+🔤 190,081 Input Tokens, 33,758 Output Tokens
 
-💵 $25.75 Estimated AI Cost This Week
+💵 $4.19 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 10 AI Prompts
+🧠 3 AI Sessions, 3 AI Prompts
 
 Opus                     233 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 897 characters per prompt
+📝 Concise Prompter — average 161 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -105,7 +105,7 @@ Opus                     233 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 00:45:18 UTC
+ Last Updated on 08/10/2026 01:04:07 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
