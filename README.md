@@ -33,7 +33,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -50,21 +50,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7681 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌆 Daytime                14435 commits       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                16833 commits       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌙 Night                  12752 commits       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+🌞 Morning                7751 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                14729 commits       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌃 Evening                17547 commits       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+🌙 Night                  13210 commits       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6333 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  7208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Wednesday                9378 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Thursday                 10305 commits       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Friday                   6906 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 4035 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Sunday                   7536 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Monday                   6437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Tuesday                  7460 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                9604 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Thursday                 10909 commits       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Friday                   6986 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Saturday                 4137 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Sunday                   7704 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 
 
@@ -74,30 +74,29 @@ Sunday                   7536 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    15 mins             █████████████░░░░░░░░░░░░   50.29 % 
-TypeScript               15 mins             ████████████░░░░░░░░░░░░░   49.71 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (100.0%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
-✍️ 228 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 269,782 Input Tokens, 30,862 Output Tokens
+🔤 95,857 Input Tokens, 4,030 Output Tokens
 
-💵 $4.27 Estimated AI Cost This Week
+💵 $0.79 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Opus                     228 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 150 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 64 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **Timeline**
@@ -105,7 +104,7 @@ Opus                     228 lines           ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/icep1anet/icep1anet/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 00:53:14 UTC
+ Last Updated on 11/10/2026 00:22:53 UTC
 <!--END_SECTION:waka-->
 
 ## My skills
